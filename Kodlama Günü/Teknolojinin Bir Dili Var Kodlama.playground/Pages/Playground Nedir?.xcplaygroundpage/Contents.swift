@@ -17,7 +17,7 @@ Yazdığınız sayıların yan taraftaki gri alanda da göründüğünü fark et
     - İmleci hareket ettirmek için herhangi bir kod satırına tıklayın.
     - Kodları düzenlemek için yazmaya başlayın.
     - Sayıları birkaç kez değiştirin.
-    - Her biri farklı bir satırda olacak şekilde birkaç yeni sayı ekleyin.\
+    - Her biri farklı bir satırda olacak şekilde birkaç yeni sayı ekleyin.
  
 Her değişiklik yaptığınızda sonuç alanının güncellendiğini görebilirsiniz.
 
@@ -25,5 +25,5 @@ Her değişiklik yaptığınızda sonuç alanının güncellendiğini görebilir
 \
 Bir sonraki sayfada, sonuç alanını nasıl daha iyi kullanabileceğimizi keşfedelim!
  
- [Geri: Başlangıç](@previous)  |  Sayfa 2 / 7  |  [İleri: Hesaplamalar](@next)
+ [Geri: Başlangıç](@previous)  |  Sayfa 2  |  [İleri: Hesaplamalar](@next)
 */
